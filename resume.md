@@ -2,14 +2,14 @@
 
 前端开发 | 7 年经验 | **184 2838 6610** | zhouqijun4job@163.com
 
-**[技术博客](https://jackchoumine.github.io/)** <span style="font-size:10px; ">（ `https://jackchoumine.github.io` ）</span> **[stackoverflow](https://stackoverflow.com/users/6524962/jackchoumine)** <span style="font-size:10px; ">（ `https://stackoverflow.com/users/6524962/jackchoumine` ）</span> **[npm](https://www.npmjs.com/org/jack-chou-mine)** <span style="font-size:10px; ">（ `https://www.npmjs.com/org/jack-chou-mine` ）</span>
+**[技术博客](https://jackchoumine.github.io/)** <span style="font-size:10px; ">(https://jackchoumine.github.io)</span> **[stackoverflow](https://stackoverflow.com/users/6524962/jackchoumine)** <span style="font-size:10px; ">(https://stackoverflow.com/users/6524962/jackchoumine)</span> **[npm](https://www.npmjs.com/org/jack-chou-mine)** <span style="font-size:10px; ">(https://www.npmjs.com/org/jack-chou-mine)</span>
 
 成都理工大学（2013——2017） | 计算机科学与技术（本科）| 英语技能：CET-4
 
----
+### 专业技能
 
 <div style="display:flex; justify-content: space-between; ">
-  <div style="width:70%; margin-right:20px; ">
+  <div style="width:65%; margin-right:20px; ">
 
 1. 掌握**Vue**周边常用技术，能封装组件库和易扩展、易复用的组件，熟悉原理；
 
@@ -29,7 +29,7 @@
 
   </div>
 
-<div style="width:29%; ">
+<div style="width:34%; ">
     <p>
       <span style="display:inline-block;width: 72px;">
         Vue3
@@ -39,7 +39,7 @@
     </p>
     <p>
       <span style="display:inline-block;width: 72px;">
-        JS|ES6+
+        ES6
       </span>
       <progress max="100" value="85"></progress>
       <span>掌握</span>
@@ -52,8 +52,14 @@
       <span>熟练</span>
     </p>
     <p>
-      <span style="display:inline-block;width:80px;">
-        ether|web3
+      <span style="display:inline-block;width:72px;">
+        ether
+      </span>
+      <progress max="100" value="60"></progress>
+      <span>熟练</span>
+    </p>
+      <span style="display:inline-block;width:72px;">
+        web3
       </span>
       <progress max="100" value="60"></progress>
       <span>熟练</span>
