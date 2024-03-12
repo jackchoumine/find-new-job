@@ -80,6 +80,13 @@
     </p>
     <p>
       <span style="display:inline-block;width:72px;">
+      jest
+      </span>
+      <progress max="100" value="50"></progress>
+      <span>熟练</span>
+    </p>
+    <p>
+      <span style="display:inline-block;width:72px;">
       vite
       </span>
       <progress max="100" value="50"></progress>
@@ -93,42 +100,62 @@
 <div style="display:flex; justify-content: space-between; ">
  <div>
 
-##### 2022.8 — 至今 贵州东方世纪
+###### 2022.8 — 至今 
+
+<p>贵州东方世纪</p>
+ </div>
+ <div>
+
+###### 2021.10 — 2022.5 
+
+<p>新蛋科技</p>
 
  </div>
  <div>
 
-##### 2021.10 — 2022.5 新蛋科技
+###### 2020.12 — 2021.9 
+
+<p>智明未来</p>
 
  </div>
  <div>
 
-##### 2020.12 — 2021.9 智明未来
+###### 2019.7 — 2020.12 
 
- </div>
- <div>
-
-##### 2019.7 — 2020.12 拓保软件
+<p>拓保软件</p>
 
 </div>
 <div>
 
-##### 2017.7 — 2019.7 长虹股份
+###### 2017.7 — 2019.7 
 
+<p>长虹股份</p>
  </div>
 </div>
 
-### 主要的项目经验
+### 代表项目
 
-#### 贵州四预警系统
+#### 贵州水旱灾害预防调度指挥系统
 
-项目简介：。
+项目简介：一个面向B端用户的水利行业监控系统，通过监控贵州省内数百水库和河流的水位变化，通过2D和3D地图的方式展示趋势变化，提前感知全省的水旱灾害情况。主要功能有：水库水位监控、河流水位涨幅、灾害预报、抢险预演和值班管理等，
 
 技术栈：
 
-* vue、vuex、vue-router 等；
-* element UI 组件库，二次封装**动态表单**组件和表格组件；
-* axios 封装 ajax; 
+* vite、vue3、pinia、vue-router、vue-use 等；
+* element UI 和 quasar 组件库，open-layer、cesiumjs 等地图库；
+* eacharts 图表展示库; 
+* 我主要负责常用组件的封装，比如分页表格，常用 hook 的封装，比如在地图上绘制几何图形等工作。
+
+#### conflux tool 
+
+项目简介：conflux tool 是一个连接 fluent wallet 的 web3 项目，用户可查看自己的 Token，兑换 Token等。
+
+技术栈：
+
+* vue3、vite、naive UI 组件库等；
+* 使用 **web3.js**、**conflux.js**和**ether.js** 等 web3 周边库；
+* 后端技术栈：**express**；
+* 我独立负责前端项目的开发，包括页面的设计和开发，和后端的对接。
 
 #### 智明未来销售系统
 
@@ -164,6 +191,6 @@
 
 ### 自我评价
 
-* 性格沉稳，为人正派，沟通能力较好，能有效进行团队合作，积极推进团队使用使用一些新技术解决现有问题；
+* 性格沉稳，为人正派，沟通能力较好，乐于分享；
 * 热爱技术，经常阅读 **[css-tricks](https://css-tricks.com/)**、**[掘金](https://juejin.im/timeline)**、**[codepen](https://codepen.io/)** 等技术社区，偶有心得体会，会写写 **[博客](https://jackchoumine.github.io/)**；
 * 感谢阁下阅读我的简历，期待与您共事。
